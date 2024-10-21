@@ -1,6 +1,6 @@
 const url = 'https://api.openweathermap.org/data/2.5/weather?';
 const icon_url = 'http://openweathermap.org/img/wn/';
-const api_key = 'c7dfad2ed066c7f87cfeb931b43deeea';
+const api_key = '';
 
 const temp_span = document.querySelector('#temp');
 const speed_span = document.querySelector('#speed');
